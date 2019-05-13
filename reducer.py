@@ -20,7 +20,7 @@ import sys
 # Cash  455.51
 
 # Sum of all sales (values) is initialized with zero, we just started
-Count_of_values = 0
+count_of_values = 0
 
 # Previous key is initialized with None, we just started
 previous_key = None
